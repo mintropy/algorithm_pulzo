@@ -12,8 +12,8 @@
 |08.02|<img src="https://static.solved.ac/tier_small/8.svg" width="14" height="14">[10703 유성](https://www.acmicpc.net/problem/10703)|<img src="https://static.solved.ac/tier_small/9.svg" width="14" height="14">[1535 안녕](https://www.acmicpc.net/problem/1535)|<img src="https://static.solved.ac/tier_small/9.svg" width="14" height="14">[15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[7569 토마토](https://www.acmicpc.net/problem/7569)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[18222 투에-모스 문자열](https://www.acmicpc.net/problem/18222)|
 |08.05|<img src="https://static.solved.ac/tier_small/8.svg" width="14" height="14">[14713 앵무새](https://www.acmicpc.net/problem/14713)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[1697 숨바꼭질](https://www.acmicpc.net/problem/1697)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[20206 푸앙이가 길을 건너간 이유](https://www.acmicpc.net/problem/20206)|<img src="https://static.solved.ac/tier_small/11.svg" width="14" height="14">[1916 최소비용 구하기](https://www.acmicpc.net/problem/1916)|
 |08.09|<img src="https://static.solved.ac/tier_small/8.svg" width="14" height="14">[9547 대통령 선거](https://www.acmicpc.net/problem/9547)|<img src="https://static.solved.ac/tier_small/9.svg" width="14" height="14">[14465 소가 길을 건너간 이유](https://www.acmicpc.net/problem/14465)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[2156 포도주 시식](https://www.acmicpc.net/problem/2156)|<img src="https://static.solved.ac/tier_small/10.svg" width="14" height="14">[2468 안전 영역](https://www.acmicpc.net/problem/2468)|<img src="https://static.solved.ac/tier_small/11.svg" width="14" height="14">[2591 숫자카드](https://www.acmicpc.net/problem/2591)|
-|08.12||||||
-|08.17||||||
+|08.13||||||
+|08.16||||||
 |08.20||||||
 |08.23||||||
 |08.26||||||
