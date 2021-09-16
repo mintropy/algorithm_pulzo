@@ -1,4 +1,3 @@
-n, info = 10, [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 3]
 import itertools
 
 def solution(n, info):
@@ -37,7 +36,5 @@ def solution(n, info):
                 gap = lion_total - apeach_total
 
     return answer
-
-print(solution(n,info))
 
 # 패스!
