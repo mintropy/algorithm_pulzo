@@ -61,10 +61,6 @@ for _ in range(c):
     cards.append(tmp)
 
 
-perm_list = []
-for i in range(n):
-    perm_list += [i] * len(turn[i])
-
 possible_output = set()
 turn_now = [0] * n
 
